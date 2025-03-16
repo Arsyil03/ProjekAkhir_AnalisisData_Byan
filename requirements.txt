@@ -15,7 +15,6 @@ pyasn1-modules==0.2.8
 pyls-spyder==0.4.0
 PyQt5==5.15.10
 PyQtWebEngine==5.15.6
-pywin32==305.1
 setuptools==75.1.0
 virtualenv==20.29.3
 wheel==0.44.0
